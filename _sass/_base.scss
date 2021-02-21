@@ -132,6 +132,12 @@ p {
         }
     }
 
+    .bitools-container {
+        .bitool-desc {
+            color: rgba(256, 256, 256, 0.6);
+        }
+    }
+
     .languages-list {
         margin-bottom: 0;
         li {
@@ -153,7 +159,7 @@ p {
     }
 
 
-    .bitools-list {
+    .languages-list {
         margin-bottom: 0;
         li {
             margin-bottom: 10px;

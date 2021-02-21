@@ -1,20 +1,17 @@
-{% assign bitools = site.data.data.sidebar.interests %}
+{% assign bitools = site.data.data.sidebar.bitools %}
 {% if bitools %}
 <div class="bitools-container container-block">
 
   <h2 class="container-block-title">
-    BI Tools
+    bitools
   </h2>
 
-  <ul class="list-unstyled bitools-list">
-    {% for bitool in bitools %}
-
-      {% if bitools.link %}
-      <li><a href="{{ bitool.link }}">{{ bitool.item }}</a></li>
-      {% else %}
-      <li>{{ bitool.item }}</li>
-      {% endif %}
-
+  <ul class="list-unstyled interests-list">
+    {%for bitool in bitools %}
+    <li>
+      {{ bitool.idiom }}
+      <span class="lang-desc">({{ bitool.level }})</span>
+    </li>
     {% endfor %}
   </ul>
 
