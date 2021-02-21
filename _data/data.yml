@@ -27,7 +27,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+#        level: Native
 
       - idiom: French
         level: Professional
