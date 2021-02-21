@@ -25,25 +25,13 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanishaahh
-        level: Professional
-
     bitools:
-      - item: Climbing
-        link:
+      - idiom: Microstrategy
+        level: 
 
-      - item: Snowboarding
-        link:
+      - idiom: Microsoft Power BI
+        level: 
 
-      - item: Cookingaa
-        link:
 
     # languages:
     #   - idiom: English
