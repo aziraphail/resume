@@ -56,24 +56,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+
+            6+ years of IT experience in software development, designing, implementing and architecting with major focus in Business Intelligence.
+
+            Microstrategy Certified: [ANALYST (ANL)](https://www.credential.net/f423d4c2-5966-43d1-a643-89c4807f0d85) and  [ANALYTICS ARCHITECT (ANA)](https://www.credential.net/ad04541d-20a7-4a93-a629-bbf56d7b17f9)<br>
+            Microsoft Certified: [Exam 70-778](https://www.youracclaim.com/badges/bfe1fc20-04ea-4996-8751-accd92d00e44) 
+
+            Experienced in all phases of software development life cycle (SDLC) and Agile methodologies.<br>
+            Experienced in development of dashboards, KPIs and reports based on business requirements using Microstrategy and Microsoft Power BI to support executive business needs.<br>
+
+            Experienced in working with Microstrategy Developer, Microstrategy Architect, Microstrategy Desktop.<br>
+            Experienced in creation of and working with various objects like Metrics, Attributes, Filters, Custom Groups.<br>
+            Experienced in design and development of Microstrategy Reports, Documents and Dossiers.<br>
+
+            Experienced in working with DAX (Calculated Measures, Calculated Columns) in Power BI. <br>
+            Worked with wide range of Power BI features like Power BI connection types (Import, Direct Query, Live Connection), Workspaces and Apps, Row Level Security, Data refresh scheduling, Heirarchies. <br>
+            Extensive hands on experience in Tabular Modeling with Microsoft SQL Server Analysis Services (SSAS). Experienced in working with Measures, Calculated columns and Hierarchies in SSAS cubes.<br>
+
 education:
     - degree: BE in Electronics and Communications Engineering
       university: Visvesvaraya Technological University, Belgaum
-#       time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      # time: 2011 - 2012
+      # details: |
+      #   Describe your study here 
+      #     - Bullet point
+      #     - Bullet point
 
 experiences:
     - role: Lead Developer
