@@ -1,0 +1,23 @@
+{% assign bitools = site.data.data.sidebar.interests %}
+{% if bitools %}
+<div class="bitools-container container-block">
+
+  <h2 class="container-block-title">
+    BI Tools
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for bitool in bitools %}
+
+      {% if bitools.link %}
+      <li><a href="{{ bitool.link }}">{{ bitool.item }}</a></li>
+      {% else %}
+      <li>{{ bitool.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
+
