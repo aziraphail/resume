@@ -25,9 +25,13 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    BI Tools:
-      - idiom: Microstrategy
-      - idiom: Microsoft Power BI
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: French
+        level: Professional
+
 
     # languages:
     #   - idiom: English
